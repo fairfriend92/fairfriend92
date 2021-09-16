@@ -2,7 +2,7 @@ Hi everyone, my name is Rodolfo and I'm a PhD student in Physics of strongly cor
 
 - C, C++
 - Java, C#
-- Python (mainly scripting for now...)
+- Python
 - Mathematica, MatLab
 - VHDL for digital hardware design (simple stuff, like a small SNN and a 4-bit CPU)
 - OpenCL and MPI for parallel computation
