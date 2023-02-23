@@ -1,4 +1,4 @@
-Hi everyone, my name is Rodolfo and I'm a PhD student in Physics of strongly correlated electron systems and neuromorphic computing. My interest lies in studying novel quantum materials to build neuromorphic devices such as spiking neurons. I'm familiar with a number of programming languages, namely:
+Hi everyone, my name is Rodolfo and I'm a researcher in physics of strongly correlated electron systems and neuromorphic computing. My interest lies in studying novel quantum materials to build neuromorphic devices such as spiking neurons. I'm familiar with a number of programming languages, namely:
 
 - C, C++
 - Java, C#
