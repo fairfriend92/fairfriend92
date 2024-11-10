@@ -4,7 +4,7 @@ Hi everyone, my name is Rodolfo and I'm a researcher in physics of strongly corr
 - Java, C#
 - Python
 - Mathematica, MatLab
-- VHDL for digital hardware design (simple stuff, like a small SNN and a 4-bit CPU)
+- VHDL for digital hardware design 
 - OpenCL and MPI for parallel computation
 
 Thank you for taking the time to take a look at my repositories!
